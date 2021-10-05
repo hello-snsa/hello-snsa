@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hello-snsa" alt="hello-snsa" /></a> </p>
 
+<hr/>
+<hr/>
+
 - 🔭 I’m currently working on [Portfolio](https://hello-snsa.github.io/portfolio/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hello-snsa](https://github.com/hello-snsa)
@@ -19,7 +22,11 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YXYYzdVvsUv2fo2_B-C6jolOdMeUa6pb/view?usp=sharing](https://drive.google.com/file/d/1YXYYzdVvsUv2fo2_B-C6jolOdMeUa6pb/view?usp=sharing)
 <!-- BLOG-POST-LIST:END -->
-### Blogs posts
+
+
+<hr/>
+<hr/>
+
 <!-- BLOG-POST-LIST:START -->
 
 
