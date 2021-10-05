@@ -44,6 +44,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hello-snsa&show_icons=true&locale=en&layout=compact" alt="hello-snsa" /></p>
 </div>
 <br/>
+<hr/>
 <br/>
 <div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-snsa&show_icons=true&locale=en" alt="hello-snsa" /></p>
