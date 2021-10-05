@@ -40,12 +40,14 @@
 
 <hr/>
 <hr/>
-
+<div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hello-snsa&show_icons=true&locale=en&layout=compact" alt="hello-snsa" /></p>
+</div>
 <br/>
 <br/>
+<div>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hello-snsa&show_icons=true&locale=en" alt="hello-snsa" /></p>
-
+</div>
 <!-- /<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hello-snsa&" alt="hello-snsa" /></p> -->
 
 
