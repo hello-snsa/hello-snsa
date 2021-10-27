@@ -10,7 +10,7 @@
 <hr/>
 <hr/>
 
-- 🔭 I’m currently working on [Portfolio](https://hello-snsa.github.io/portfolio/)
+<!-- - 🔭 I’m currently working on [Portfolio](https://hello-snsa.github.io/portfolio/) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/hello-snsa](https://github.com/hello-snsa)
 
